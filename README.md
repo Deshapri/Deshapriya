@@ -12,8 +12,8 @@
 
 ```javascript
 const developer = {
-    name: "[Your Name]",
-    location: "Your Location",
+    name: "[Kalana Champika]",
+    location: "Meda kadigamuwa ",
     education: "Your Degree/Specialization",
     roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
     currentFocus: ["Cloud Architecture", "System Design", "AI/ML"],
