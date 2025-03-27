@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>👋 Hello, I'm [Your Name]</h1>
+  <h1>👋 Hello, I'm Kalana Champika Deshapriya</h1>
   <p><em>🚀 Full Stack Developer | ☁️ Cloud Architect | 🤖 AI Enthusiast</em></p>
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+  [![LinkedIn](https://www.linkedin.com/in/kalana-champika-769706273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BQonRCX9sSeS3gNkfUjQS1w%3D%3D)
+  [![Email](champika1019@gmail.com)
 </div>
 
 ---
@@ -14,7 +14,7 @@
 const developer = {
     name: "[Kalana Champika]",
     location: "Meda kadigamuwa ",
-    education: "Your Degree/Specialization",
+    education: "HNDIT (SLIATE)|Web Design for Beginners(Centre for Open & Distance Learning University of Moratuwa,Sri Lanka",
     roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
     currentFocus: ["Cloud Architecture", "System Design", "AI/ML"],
     communities: {
